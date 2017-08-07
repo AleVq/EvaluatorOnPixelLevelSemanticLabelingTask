@@ -13,4 +13,4 @@ The script outputs a pretty print of two dictionary: the first liks each class (
 These scores have been computed by creating two array which contain targets and predictions pixel-by-pixel. 
 
 ## Libraries
-Other than numpy and pandas, opencv has been used to load images and sklearn.metrics to compute the confusion matrix 
+Other than numpy and pandas, opencv has been used to load images and sklearn.metrics to compute the confusion matrix.
